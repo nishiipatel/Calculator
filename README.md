@@ -1,2 +1,2 @@
 # Calculator
-Basic Calculator App
+Basic a Calculator App that can perform basic arithmetic operations.
